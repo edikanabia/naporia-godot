@@ -14,6 +14,10 @@ config/name="Naporia Godot"
 config/features=PackedStringArray("4.2", "C#", "Forward Plus")
 config/icon="res://icon.svg"
 
+[audio]
+
+buses/default_bus_layout="res://audio/default_bus_layout.tres"
+
 [dotnet]
 
 project/assembly_name="Naporia Godot"
