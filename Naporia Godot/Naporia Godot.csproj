@@ -6,5 +6,5 @@
     <EnableDynamicLoading>true</EnableDynamicLoading>
     <RootNamespace>NaporiaGodot</RootNamespace>
   </PropertyGroup>
-	<Import Project="addons\GodotInk\GodotInk.props" />
+	<Import Project="addons\YarnSpinner-Godot\YarnSpinner-Godot.props" />
 </Project>
